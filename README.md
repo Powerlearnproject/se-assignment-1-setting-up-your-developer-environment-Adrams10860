@@ -17,29 +17,36 @@ This assignment aims to familiarize you with the tools and configurations necess
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+   ![Screenshot 2024-06-17 at 17 17 22](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Adrams10860/assets/150818577/ae46edbd-af24-46fb-8215-8a3f927e78aa)
+![Screenshot 2024-06-17 at 17 15 10](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Adrams10860/assets/150818577/d307a4c0-b248-4086-9d83-d99f9a1d114a)
+![Screenshot 2024-06-17 at 17 14 48](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Adrams10860/assets/150818577/aba44daf-9ebc-4721-a155-f83b52f94596)
+![Screenshot 2024-06-17 at 17 12 35](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Adrams10860/assets/150818577/618490fd-cae5-4776-9b5e-a98a7112ebe7)
+![Screenshot 2024-06-17 at 17 03 38](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Adrams10860/assets/150818577/7eb01594-cbd4-4a4b-9ddb-5ec2d62e6b76)
 
-4. Install Necessary Programming Languages and Runtimes:
+
+5. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
-5. Install Package Managers:
+6. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
-6. Configure a Database (MySQL):
+7. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
-7. Set Up Development Environments and Virtualization (Optional):
+8. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
-8. Explore Extensions and Plugins:
+9. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-9. Document Your Setup:
+10. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
+  One of the challenges I faced was during the installation of MySQL, where the server would not start due to a permission error. 
 
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
